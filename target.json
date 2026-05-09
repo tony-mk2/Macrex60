@@ -1,0 +1,11 @@
+{
+    "include": [
+        {
+            "keyboard": "macrex60",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=\"\"",
+            "name": "macrex60_vial"
+        }
+    ]
+}
